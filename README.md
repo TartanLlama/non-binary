@@ -1,4 +1,4 @@
-# Non-binary
+# Non-binary Pride in GitHub Repository Languages
 
 ![](non-binary.png)
 
